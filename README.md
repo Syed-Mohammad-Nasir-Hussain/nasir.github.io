@@ -1,7 +1,7 @@
 # Data Scientist
 
 ## PROFILE SUMMARY : 
-      Leveraging 4+ years of experience, achieved a 25% competitive advantage for the organization through advanced data analysis techniques, driving revenue growth, and enhancing client satisfaction by 30%. 
+Leveraging 4+ years of experience, achieved a 25% competitive advantage for the organization through advanced data analysis techniques, driving revenue growth, and enhancing client satisfaction by 30%. 
       
 ## WORK EXPERIENCE : 
 
